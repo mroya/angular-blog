@@ -1,0 +1,5 @@
+@media screen and (max-width: 360px) {
+  .container__menu-bar li {
+    font-size: 13px;
+  }
+}

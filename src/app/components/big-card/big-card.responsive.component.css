@@ -1,0 +1,14 @@
+@media screen and (max-width: 360px) {
+  .container__big-card {
+    margin-left: 10px;
+    margin-right: 20px;
+
+    height: 338px;
+    flex-direction: column;
+  }
+
+  .big-card__photo img {
+    width: 90%;
+    min-width: 90px;
+  }
+}

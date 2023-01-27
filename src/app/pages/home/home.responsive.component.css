@@ -1,0 +1,12 @@
+@media screen and (max-width: 360px) {
+  .container__articles {
+    margin-top: 5px;
+    flex-direction: column;
+  }
+
+  header {
+    margin-top: 5px;
+  }
+
+}
+
